@@ -4,3 +4,4 @@
 
 - jenkins job is success!
 - content type change json
+- addition /
